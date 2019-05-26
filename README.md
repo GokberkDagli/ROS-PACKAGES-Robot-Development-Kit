@@ -3,49 +3,49 @@ This repository contains the ROS packages which are used to build a basic robot 
 
 Publisher Nodes: Basic codes for sensors and publisher nodes are included in these files.
  
- -dht11 node
+  -dht11 node
  
- -sonar node
+  -sonar node
  
- -ldr node
+  -ldr node
 
 Subscriber Nodes: These nodes are created to run the output module according to the sensors.
  
  
- -led_ldr
+  -led_ldr
  
- -led_dht11
+  -led_dht11
  
- -servo_dht11
+  -servo_dht11
  
- -servo_sonar
+  -servo_sonar
  
- -sonar_sub
+  -sonar_sub
  
- -step_dht11
+  -step_dht11
 
 Launch Files
 (>subs>launch)
 
--led_dht11.launch
+ -led_dht11.launch
 
--led_ldr.launch
+ -led_ldr.launch
 
--servo_sonar.launch
+ -servo_sonar.launch
 
--sonar_sub.launch
+ -sonar_sub.launch
 
--step_dht11.launch
+ -step_dht11.launch
 
 *Created for Graduation Project
 
 *Team members
 
--Burak Can Fazla
+ -Burak Can Fazla
 
--Süleyman Gökberk Dağlı
+ -Süleyman Gökberk Dağlı
 
--Zeki Aynal
+ -Zeki Aynal
 
--Mutlu Yıldız
+ -Mutlu Yıldız
 
