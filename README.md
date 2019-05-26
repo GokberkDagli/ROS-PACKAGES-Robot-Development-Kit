@@ -3,11 +3,11 @@ This repository contains the ROS packages which are used to build a basic robot 
 
 Publisher Nodes: Basic codes for sensors and publisher nodes are included in these files.
  
-  -dht11 node
+   -dht11 node
  
-  -sonar node
+   -sonar node
  
-  -ldr node
+   -ldr node
 
 Subscriber Nodes: These nodes are created to run the output module according to the sensors.
  
