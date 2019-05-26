@@ -37,9 +37,7 @@ Launch Files
 
  - step_dht11.launch
 
-*Created for Graduation Project
-
-*Team members
+*Team members:
 
  - Burak Can Fazla
 
@@ -49,3 +47,4 @@ Launch Files
 
  - Mutlu Yıldız
 
+*Created for Graduation Project
